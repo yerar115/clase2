@@ -1,3 +1,7 @@
 Hola mundo!
 Primer cambio por GitHub
+<<<<<<< HEAD
 Primer cambio por repositorio local
+=======
+Segundo cambio por GitHub
+>>>>>>> 591925743e843ae2adffc2eeb3c51bd15731ef6a
